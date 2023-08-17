@@ -1,4 +1,4 @@
-### Hi there 👋
+ - Hi there 👋, I'm Paul Dwamena
 
 <!--
 **Paul-Dwamena/Paul-Dwamena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am a full stack engineer with over 5 years experience and specialises in python and javascript
+- I have experience with javascript, node js, typescript, react js,django,fastApi,flask, Next js
+- 👀 Im interested in web and mobile development.
+- 😊 Im looking to collaborate on projects involving python, node js,typescript and next js 
+- 📫 Reach me at pauldwamena10@gmail.com | https://www.linkedin.com/in/paul-dwamena-5b2493151/
